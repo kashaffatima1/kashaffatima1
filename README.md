@@ -43,7 +43,7 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashaffatima1&show_icons=true&locale=en" alt="kashaffatima1" /></p>
 </div>
 
-<h3 align="left">Snake game:</h3>
+<h3 align="left">Snake eating my contribution:</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
